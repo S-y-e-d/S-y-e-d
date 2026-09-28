@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... Everything
 - 🌱 I’m currently learning ... Something
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... Don't
 
 <!---
 S-y-e-d/S-y-e-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
